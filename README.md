@@ -24,9 +24,3 @@
 - 2 Verificar se está matriculado em algum curso e completar todos os que estiver matriculado
 - 3 Caso já tenha concluído algum dos cursos escolha mais cursos sugeridos no **[Site do SENAI Jaguariúna](https://jaguariuna.sp.senai.br/cursos/13/899/formacao-inicial-e-continuada?Parent=898)**
 - 4 Se tiver dificuldades de acesso, senha, clique [Tutorial de como acessar o Portal EAD](https://ead.sp.senai.br/tutorial/comoacessar/)
-### Cursos que devemos concluír
-- Economia Circular  
-- LGPD  
-- Desvendando o 5G  
-- Segurança no Trabalho 
-### Enviar os arquivos dos certificados (imagem ou PDF) [FORMS](https://forms.gle/STMxikkU8qVfLuEb8)
